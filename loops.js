@@ -1,1 +1,1 @@
-forLoop (let i = 0; i < t; i++) {if i < 1 return {"I am 1 strange loop."} else {return "I am ${i} strange loops."}}
+forLoop (let i = 0; i < t; i++) {if i < 1 console.log("I am 1 strange loop." else console.log("I am ${i} strange loops.")}
